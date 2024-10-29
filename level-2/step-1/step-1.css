@@ -15,6 +15,7 @@
 /*  Step-1 You need to get all of these elements to line up side by side. What display property would do this for you? */
 
 .menu {
+    margin: auto;
     width: 100px;
     height: 40px;
     background: #536A63;
@@ -22,15 +23,16 @@
 }
 
 .logo {
+    margin: auto;
     width: 300px;
     height: 40px;
-    margin-top: 10px;
     background: #536A63;
     display: inline-block;
 
 }
 
 .sign-in {
+    margin: auto;
     width: 100px;
     height: 40px;
     background: #536A63;
